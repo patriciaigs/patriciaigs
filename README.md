@@ -38,6 +38,6 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30" />
 </a>
 
-<a href="https://github.com/patriciaigs/patriciaigs">
+<a href="https://github.com/patriciaigs/">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="30" />
 </a>
