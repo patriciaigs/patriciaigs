@@ -16,6 +16,8 @@
 
 ⭐ I love the fitness world, I build too many Lego's and take too many pictures in my free time. 
 
+<br>
+<br>
 
 ## 🔧 Skills & Tools
 
@@ -24,6 +26,8 @@
 - R 
 - Tableau
 
+<br>
+<br>
 
 ## 🚀 Projects
 
@@ -31,6 +35,8 @@
 
 ### Personal Website
 
+<br>
+<br>
 
 ## 📫 Find me at
 
