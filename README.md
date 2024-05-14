@@ -31,7 +31,7 @@
 
 ## 🚀 Projects
 
-### Google Data Analytics Certification Project
+### [Google Data Analytics Certification Project](https://github.com/patriciaigs/Bellabeat-Case-Study)
 
 ### Personal Website
 
