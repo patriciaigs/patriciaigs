@@ -33,7 +33,7 @@
 
 ### [Google Data Analytics Certification Project](https://github.com/patriciaigs/Bellabeat-Case-Study)
 
-### Personal Website
+### [Personal Website](https://patriciaigsantos.wordpress.com/)
 
 <br>
 <br>
